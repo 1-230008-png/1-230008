@@ -1,0 +1,624 @@
+﻿violation_id,study_id,date,academic_year,category,severity,sanction_issued,sanction_compliance,recorded_by
+V-00001,S-0074,2023-06-07,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00002,S-0208,2023-06-12,2023-2024,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00003,S-0109,2023-06-14,2023-2024,Theft,Major,Yes,Full,Teacher
+V-00004,S-0145,2023-06-14,2023-2024,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00005,S-0147,2023-06-14,2023-2024,Bullying,Major,Yes,Full,Teacher
+V-00006,S-0054,2023-06-16,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00007,S-0134,2023-06-19,2023-2024,Tardiness,Minor,Yes,Partial,OSA
+V-00008,S-0013,2023-06-20,2023-2024,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00009,S-0004,2023-06-23,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00010,S-0087,2023-06-26,2023-2024,Improper uniform,Minor,No,No sanction,Teacher
+V-00011,S-0140,2023-06-27,2023-2024,Improper uniform,Minor,Yes,Full,OSA
+V-00012,S-0064,2023-06-28,2023-2024,Tardiness,Minor,Yes,Full,Teacher
+V-00013,S-0122,2023-06-30,2023-2024,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00014,S-0154,2023-07-03,2023-2024,Littering,Minor,Yes,Full,Teacher
+V-00015,S-0054,2023-07-07,2023-2024,Littering,Minor,Yes,Non-compliance,Teacher
+V-00016,S-0145,2023-07-07,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,Administrator
+V-00017,S-0061,2023-07-12,2023-2024,Cheating,Major,Yes,Non-compliance,Teacher
+V-00018,S-0053,2023-07-14,2023-2024,Bullying,Major,Yes,Full,Administrator
+V-00019,S-0063,2023-07-17,2023-2024,Tardiness,Minor,No,No sanction,Teacher
+V-00020,S-0100,2023-07-18,2023-2024,Vandalism,Major,Yes,Full,Teacher
+V-00021,S-0095,2023-07-20,2023-2024,Disruptive behavior,Minor,Yes,Full,OSA
+V-00022,S-0115,2023-07-25,2023-2024,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00023,S-0003,2023-07-26,2023-2024,Vandalism,Major,Yes,Partial,OSA
+V-00024,S-0097,2023-07-26,2023-2024,Littering,Minor,Yes,Non-compliance,Teacher
+V-00025,S-0024,2023-07-27,2023-2024,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00026,S-0073,2023-07-28,2023-2024,Use of phone in class,Minor,No,No sanction,OSA
+V-00027,S-0147,2023-08-03,2023-2024,Bullying,Major,Yes,Partial,Teacher
+V-00028,S-0060,2023-08-07,2023-2024,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00029,S-0121,2023-08-07,2023-2024,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00030,S-0200,2023-08-07,2023-2024,Theft,Major,Yes,Full,Administrator
+V-00031,S-0060,2023-08-08,2023-2024,Vandalism,Major,Yes,Non-compliance,Administrator
+V-00032,S-0122,2023-08-18,2023-2024,Improper uniform,Minor,Yes,Partial,Administrator
+V-00033,S-0055,2023-08-22,2023-2024,Fighting,Major,Yes,Partial,OSA
+V-00034,S-0112,2023-08-22,2023-2024,Use of phone in class,Minor,Yes,Full,OSA
+V-00035,S-0146,2023-08-23,2023-2024,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00036,S-0079,2023-08-24,2023-2024,Theft,Major,Yes,Partial,Teacher
+V-00037,S-0010,2023-08-25,2023-2024,Littering,Minor,No,No sanction,OSA
+V-00038,S-0010,2023-08-28,2023-2024,Cheating,Major,Yes,Partial,OSA
+V-00039,S-0154,2023-08-28,2023-2024,Use of phone in class,Minor,No,No sanction,OSA
+V-00040,S-0001,2023-08-29,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00041,S-0178,2023-08-29,2023-2024,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00042,S-0034,2023-08-30,2023-2024,Disruptive behavior,Minor,No,No sanction,OSA
+V-00043,S-0204,2023-08-30,2023-2024,Bullying,Major,Yes,Full,Teacher
+V-00044,S-0017,2023-09-01,2023-2024,Tardiness,Minor,Yes,Non-compliance,Administrator
+V-00045,S-0105,2023-09-01,2023-2024,Bullying,Major,Yes,Full,OSA
+V-00046,S-0084,2023-09-05,2023-2024,Theft,Major,Yes,Partial,OSA
+V-00047,S-0027,2023-09-06,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00048,S-0176,2023-09-07,2023-2024,Cheating,Major,Yes,Full,Administrator
+V-00049,S-0164,2023-09-11,2023-2024,Improper uniform,Minor,Yes,Full,OSA
+V-00050,S-0002,2023-09-13,2023-2024,Littering,Minor,Yes,Non-compliance,OSA
+V-00051,S-0125,2023-09-13,2023-2024,Tardiness,Minor,No,No sanction,Teacher
+V-00052,S-0196,2023-09-14,2023-2024,Disruptive behavior,Minor,Yes,Full,OSA
+V-00053,S-0080,2023-09-15,2023-2024,Fighting,Major,Yes,Non-compliance,Teacher
+V-00054,S-0175,2023-09-15,2023-2024,Fighting,Major,Yes,Full,Teacher
+V-00055,S-0127,2023-09-19,2023-2024,Cheating,Major,Yes,Partial,Teacher
+V-00056,S-0204,2023-09-19,2023-2024,Tardiness,Minor,Yes,Full,Teacher
+V-00057,S-0050,2023-09-20,2023-2024,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00058,S-0078,2023-09-21,2023-2024,Vandalism,Major,Yes,Non-compliance,OSA
+V-00059,S-0202,2023-09-21,2023-2024,Fighting,Major,Yes,Non-compliance,Teacher
+V-00060,S-0215,2023-09-21,2023-2024,Improper uniform,Minor,No,No sanction,OSA
+V-00061,S-0168,2023-09-26,2023-2024,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00062,S-0125,2023-09-28,2023-2024,Fighting,Major,Yes,Partial,OSA
+V-00063,S-0161,2023-09-28,2023-2024,Theft,Major,Yes,Non-compliance,Administrator
+V-00064,S-0051,2023-09-29,2023-2024,Fighting,Major,Yes,Full,OSA
+V-00065,S-0165,2023-09-29,2023-2024,Littering,Minor,No,No sanction,Teacher
+V-00066,S-0218,2023-09-29,2023-2024,Improper uniform,Minor,Yes,Full,OSA
+V-00067,S-0087,2023-10-02,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00068,S-0090,2023-10-03,2023-2024,Fighting,Major,Yes,Non-compliance,OSA
+V-00069,S-0211,2023-10-04,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00070,S-0147,2023-10-06,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00071,S-0105,2023-10-11,2023-2024,Tardiness,Minor,Yes,Partial,Administrator
+V-00072,S-0136,2023-10-11,2023-2024,Fighting,Major,Yes,Full,OSA
+V-00073,S-0027,2023-10-12,2023-2024,Use of phone in class,Minor,Yes,Partial,Teacher
+V-00074,S-0142,2023-10-12,2023-2024,Cheating,Major,Yes,Full,Teacher
+V-00075,S-0109,2023-10-13,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00076,S-0141,2023-10-13,2023-2024,Theft,Major,Yes,Full,Administrator
+V-00077,S-0022,2023-10-18,2023-2024,Cheating,Major,Yes,Full,Teacher
+V-00078,S-0014,2023-10-24,2023-2024,Disruptive behavior,Minor,Yes,Non-compliance,OSA
+V-00079,S-0068,2023-10-24,2023-2024,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00080,S-0070,2023-10-24,2023-2024,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00081,S-0060,2023-10-25,2023-2024,Fighting,Major,Yes,Partial,Teacher
+V-00082,S-0112,2023-11-02,2023-2024,Littering,Minor,No,No sanction,OSA
+V-00083,S-0181,2023-11-03,2023-2024,Tardiness,Minor,Yes,Full,OSA
+V-00084,S-0112,2023-11-13,2023-2024,Fighting,Major,Yes,Full,Administrator
+V-00085,S-0169,2023-11-13,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00086,S-0085,2023-11-14,2023-2024,Littering,Minor,Yes,Full,Teacher
+V-00087,S-0011,2023-11-15,2023-2024,Bullying,Major,Yes,Full,Teacher
+V-00088,S-0015,2023-11-15,2023-2024,Disruptive behavior,Minor,Yes,Full,OSA
+V-00089,S-0032,2023-11-15,2023-2024,Use of phone in class,Minor,Yes,Full,OSA
+V-00090,S-0060,2023-11-15,2023-2024,Fighting,Major,Yes,Partial,OSA
+V-00091,S-0160,2023-11-15,2023-2024,Tardiness,Minor,Yes,Non-compliance,Administrator
+V-00092,S-0156,2023-11-16,2023-2024,Vandalism,Major,Yes,Full,Teacher
+V-00093,S-0119,2023-11-17,2023-2024,Fighting,Major,Yes,Full,Administrator
+V-00094,S-0175,2023-11-17,2023-2024,Improper uniform,Minor,Yes,Full,Administrator
+V-00095,S-0027,2023-11-21,2023-2024,Vandalism,Major,Yes,Partial,Teacher
+V-00096,S-0130,2023-11-21,2023-2024,Disruptive behavior,Minor,Yes,Full,OSA
+V-00097,S-0128,2023-11-22,2023-2024,Littering,Minor,Yes,Non-compliance,Teacher
+V-00098,S-0197,2023-11-27,2023-2024,Cheating,Major,Yes,Full,Teacher
+V-00099,S-0087,2023-11-28,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00100,S-0201,2023-11-29,2023-2024,Tardiness,Minor,Yes,Partial,Teacher
+V-00101,S-0109,2023-12-01,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00102,S-0206,2023-12-01,2023-2024,Vandalism,Major,Yes,Non-compliance,OSA
+V-00103,S-0045,2023-12-04,2023-2024,Littering,Minor,Yes,Full,Teacher
+V-00104,S-0219,2023-12-04,2023-2024,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00105,S-0147,2023-12-06,2023-2024,Tardiness,Minor,Yes,Full,Administrator
+V-00106,S-0011,2023-12-08,2023-2024,Theft,Major,Yes,Non-compliance,Teacher
+V-00107,S-0084,2023-12-08,2023-2024,Cheating,Major,Yes,Non-compliance,Teacher
+V-00108,S-0008,2023-12-12,2023-2024,Disruptive behavior,Minor,Yes,Full,OSA
+V-00109,S-0063,2023-12-14,2023-2024,Tardiness,Minor,No,No sanction,Teacher
+V-00110,S-0192,2023-12-14,2023-2024,Vandalism,Major,Yes,Full,OSA
+V-00111,S-0202,2023-12-14,2023-2024,Use of phone in class,Minor,Yes,Partial,OSA
+V-00112,S-0020,2023-12-15,2023-2024,Bullying,Major,Yes,Partial,Teacher
+V-00113,S-0105,2023-12-15,2023-2024,Fighting,Major,Yes,Non-compliance,Teacher
+V-00114,S-0087,2023-12-25,2023-2024,Theft,Major,Yes,Full,Teacher
+V-00115,S-0122,2023-12-25,2023-2024,Disruptive behavior,Minor,Yes,Partial,Teacher
+V-00116,S-0080,2023-12-28,2023-2024,Bullying,Major,Yes,Non-compliance,OSA
+V-00117,S-0040,2023-12-29,2023-2024,Bullying,Major,Yes,Partial,OSA
+V-00118,S-0145,2024-01-01,2023-2024,Littering,Minor,Yes,Non-compliance,Teacher
+V-00119,S-0004,2024-01-02,2023-2024,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00120,S-0012,2024-01-02,2023-2024,Fighting,Major,Yes,Full,Teacher
+V-00121,S-0017,2024-01-02,2023-2024,Use of phone in class,Minor,Yes,Partial,OSA
+V-00122,S-0112,2024-01-02,2023-2024,Vandalism,Major,Yes,Full,OSA
+V-00123,S-0160,2024-01-03,2023-2024,Fighting,Major,Yes,Full,OSA
+V-00124,S-0007,2024-01-04,2023-2024,Littering,Minor,No,No sanction,Teacher
+V-00125,S-0010,2024-01-08,2023-2024,Improper uniform,Minor,Yes,Non-compliance,Administrator
+V-00126,S-0009,2024-01-12,2023-2024,Disruptive behavior,Minor,No,No sanction,OSA
+V-00127,S-0053,2024-01-12,2023-2024,Fighting,Major,Yes,Non-compliance,OSA
+V-00128,S-0055,2024-01-15,2023-2024,Theft,Major,Yes,Full,OSA
+V-00129,S-0149,2024-01-18,2023-2024,Fighting,Major,Yes,Full,OSA
+V-00130,S-0200,2024-01-18,2023-2024,Theft,Major,Yes,Non-compliance,OSA
+V-00131,S-0142,2024-01-19,2023-2024,Fighting,Major,Yes,Non-compliance,Teacher
+V-00132,S-0050,2024-01-22,2023-2024,Bullying,Major,Yes,Full,Teacher
+V-00133,S-0145,2024-01-22,2023-2024,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00134,S-0147,2024-01-25,2023-2024,Disruptive behavior,Minor,No,No sanction,OSA
+V-00135,S-0008,2024-01-26,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00136,S-0030,2024-01-26,2023-2024,Vandalism,Major,Yes,Full,Teacher
+V-00137,S-0078,2024-01-26,2023-2024,Tardiness,Minor,Yes,Full,Teacher
+V-00138,S-0152,2024-01-26,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00139,S-0211,2024-01-26,2023-2024,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00140,S-0134,2024-02-01,2023-2024,Fighting,Major,Yes,Full,Teacher
+V-00141,S-0147,2024-02-02,2023-2024,Bullying,Major,Yes,Full,OSA
+V-00142,S-0076,2024-02-05,2023-2024,Littering,Minor,Yes,Full,OSA
+V-00143,S-0011,2024-02-09,2023-2024,Bullying,Major,Yes,Full,OSA
+V-00144,S-0107,2024-02-09,2023-2024,Cheating,Major,Yes,Partial,OSA
+V-00145,S-0143,2024-02-09,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00146,S-0166,2024-02-09,2023-2024,Vandalism,Major,Yes,Non-compliance,OSA
+V-00147,S-0200,2024-02-09,2023-2024,Tardiness,Minor,Yes,Partial,OSA
+V-00148,S-0156,2024-02-12,2023-2024,Theft,Major,Yes,Full,OSA
+V-00149,S-0036,2024-02-13,2023-2024,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00150,S-0100,2024-02-19,2023-2024,Use of phone in class,Minor,No,No sanction,Teacher
+V-00151,S-0146,2024-02-20,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00152,S-0174,2024-02-20,2023-2024,Vandalism,Major,Yes,Non-compliance,OSA
+V-00153,S-0027,2024-02-22,2023-2024,Disruptive behavior,Minor,No,No sanction,OSA
+V-00154,S-0017,2024-02-23,2023-2024,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00155,S-0024,2024-02-28,2023-2024,Vandalism,Major,Yes,Non-compliance,Teacher
+V-00156,S-0061,2024-02-29,2023-2024,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00157,S-0107,2024-02-29,2023-2024,Vandalism,Major,Yes,Non-compliance,Administrator
+V-00158,S-0131,2024-03-01,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00159,S-0027,2024-03-06,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00160,S-0100,2024-03-06,2023-2024,Littering,Minor,Yes,Full,OSA
+V-00161,S-0168,2024-03-07,2023-2024,Littering,Minor,Yes,Partial,Teacher
+V-00162,S-0030,2024-03-08,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00163,S-0055,2024-03-08,2023-2024,Vandalism,Major,Yes,Partial,Administrator
+V-00164,S-0109,2024-03-08,2023-2024,Theft,Major,Yes,Non-compliance,OSA
+V-00165,S-0187,2024-03-08,2023-2024,Tardiness,Minor,No,No sanction,Teacher
+V-00166,S-0040,2024-03-11,2023-2024,Vandalism,Major,Yes,Full,OSA
+V-00167,S-0147,2024-03-12,2023-2024,Fighting,Major,Yes,Partial,Teacher
+V-00168,S-0038,2024-03-13,2023-2024,Disruptive behavior,Minor,Yes,Full,OSA
+V-00169,S-0138,2024-03-13,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00170,S-0086,2024-03-20,2023-2024,Littering,Minor,Yes,Full,Teacher
+V-00171,S-0045,2024-03-22,2023-2024,Littering,Minor,Yes,Non-compliance,Teacher
+V-00172,S-0123,2024-03-22,2023-2024,Use of phone in class,Minor,Yes,Full,OSA
+V-00173,S-0100,2024-03-26,2023-2024,Tardiness,Minor,No,No sanction,Administrator
+V-00174,S-0081,2024-03-27,2023-2024,Improper uniform,Minor,Yes,Full,OSA
+V-00175,S-0069,2024-03-29,2023-2024,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00176,S-0188,2024-04-03,2023-2024,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00177,S-0046,2024-04-04,2023-2024,Bullying,Major,Yes,Full,OSA
+V-00178,S-0076,2024-04-04,2023-2024,Use of phone in class,Minor,Yes,Partial,Teacher
+V-00179,S-0215,2024-04-04,2023-2024,Improper uniform,Minor,No,No sanction,Teacher
+V-00180,S-0109,2024-04-08,2023-2024,Improper uniform,Minor,No,No sanction,Teacher
+V-00181,S-0130,2024-04-09,2023-2024,Cheating,Major,Yes,Full,Teacher
+V-00182,S-0025,2024-04-10,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00183,S-0011,2024-04-11,2023-2024,Bullying,Major,Yes,Full,Administrator
+V-00184,S-0034,2024-04-15,2023-2024,Littering,Minor,Yes,Full,Administrator
+V-00185,S-0014,2024-04-16,2023-2024,Bullying,Major,Yes,Partial,Teacher
+V-00186,S-0114,2024-04-16,2023-2024,Vandalism,Major,Yes,Full,OSA
+V-00187,S-0079,2024-04-17,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00188,S-0175,2024-04-19,2023-2024,Littering,Minor,Yes,Partial,Teacher
+V-00189,S-0031,2024-04-22,2023-2024,Bullying,Major,Yes,Full,OSA
+V-00190,S-0085,2024-04-22,2023-2024,Bullying,Major,Yes,Partial,OSA
+V-00191,S-0010,2024-04-24,2023-2024,Improper uniform,Minor,Yes,Full,Teacher
+V-00192,S-0112,2024-04-30,2023-2024,Cheating,Major,Yes,Non-compliance,Teacher
+V-00193,S-0174,2024-04-30,2023-2024,Vandalism,Major,Yes,Full,Teacher
+V-00194,S-0070,2024-05-01,2023-2024,Fighting,Major,Yes,Full,Teacher
+V-00195,S-0018,2024-05-02,2023-2024,Fighting,Major,Yes,Partial,Administrator
+V-00196,S-0127,2024-05-03,2023-2024,Fighting,Major,Yes,Full,Teacher
+V-00197,S-0051,2024-05-07,2023-2024,Disruptive behavior,Minor,Yes,Partial,OSA
+V-00198,S-0050,2024-05-08,2023-2024,Disruptive behavior,Minor,Yes,Full,OSA
+V-00199,S-0180,2024-05-08,2023-2024,Use of phone in class,Minor,No,No sanction,OSA
+V-00200,S-0068,2024-05-13,2023-2024,Bullying,Major,Yes,Full,Teacher
+V-00201,S-0041,2024-05-15,2023-2024,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00202,S-0184,2024-05-20,2023-2024,Cheating,Major,Yes,Full,Teacher
+V-00203,S-0194,2024-05-20,2023-2024,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00204,S-0037,2024-05-21,2023-2024,Use of phone in class,Minor,Yes,Full,Teacher
+V-00205,S-0127,2024-05-24,2023-2024,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00206,S-0206,2024-05-24,2023-2024,Fighting,Major,Yes,Full,Teacher
+V-00207,S-0202,2024-05-29,2023-2024,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00208,S-0161,2024-05-31,2023-2024,Use of phone in class,Minor,Yes,Partial,OSA
+V-00209,S-0206,2024-06-03,2024-2025,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00210,S-0095,2024-06-05,2024-2025,Theft,Major,Yes,Full,Teacher
+V-00211,S-0084,2024-06-06,2024-2025,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00212,S-0234,2024-06-07,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00213,S-0034,2024-06-10,2024-2025,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00214,S-0034,2024-06-11,2024-2025,Theft,Major,Yes,Non-compliance,OSA
+V-00215,S-0051,2024-06-11,2024-2025,Cheating,Major,Yes,Full,Administrator
+V-00216,S-0017,2024-06-12,2024-2025,Use of phone in class,Minor,Yes,Full,Teacher
+V-00217,S-0224,2024-06-13,2024-2025,Disruptive behavior,Minor,Yes,Partial,Teacher
+V-00218,S-0147,2024-06-14,2024-2025,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00219,S-0060,2024-06-17,2024-2025,Bullying,Major,Yes,Non-compliance,Teacher
+V-00220,S-0225,2024-06-17,2024-2025,Improper uniform,Minor,Yes,Full,OSA
+V-00221,S-0175,2024-06-18,2024-2025,Vandalism,Major,Yes,Non-compliance,OSA
+V-00222,S-0200,2024-06-18,2024-2025,Fighting,Major,Yes,Full,Teacher
+V-00223,S-0227,2024-06-19,2024-2025,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00224,S-0076,2024-06-21,2024-2025,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00225,S-0196,2024-06-21,2024-2025,Tardiness,Minor,No,No sanction,Teacher
+V-00226,S-0001,2024-06-24,2024-2025,Cheating,Major,Yes,Full,OSA
+V-00227,S-0063,2024-06-25,2024-2025,Fighting,Major,Yes,Partial,OSA
+V-00228,S-0234,2024-06-25,2024-2025,Bullying,Major,Yes,Non-compliance,Teacher
+V-00229,S-0206,2024-06-26,2024-2025,Littering,Minor,Yes,Full,Teacher
+V-00230,S-0241,2024-07-02,2024-2025,Disruptive behavior,Minor,No,No sanction,OSA
+V-00231,S-0062,2024-07-05,2024-2025,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00232,S-0011,2024-07-10,2024-2025,Bullying,Major,Yes,Non-compliance,OSA
+V-00233,S-0246,2024-07-10,2024-2025,Littering,Minor,Yes,Partial,Teacher
+V-00234,S-0208,2024-07-11,2024-2025,Theft,Major,Yes,Partial,Teacher
+V-00235,S-0244,2024-07-11,2024-2025,Littering,Minor,Yes,Full,OSA
+V-00236,S-0139,2024-07-15,2024-2025,Cheating,Major,Yes,Full,Teacher
+V-00237,S-0179,2024-07-16,2024-2025,Cheating,Major,Yes,Non-compliance,Teacher
+V-00238,S-0114,2024-07-17,2024-2025,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00239,S-0060,2024-07-22,2024-2025,Tardiness,Minor,Yes,Non-compliance,Administrator
+V-00240,S-0043,2024-07-23,2024-2025,Tardiness,Minor,No,No sanction,Teacher
+V-00241,S-0078,2024-07-23,2024-2025,Fighting,Major,Yes,Non-compliance,OSA
+V-00242,S-0070,2024-07-24,2024-2025,Tardiness,Minor,Yes,Full,OSA
+V-00243,S-0087,2024-07-24,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00244,S-0200,2024-07-24,2024-2025,Cheating,Major,Yes,Full,Teacher
+V-00245,S-0250,2024-07-25,2024-2025,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00246,S-0176,2024-07-30,2024-2025,Bullying,Major,Yes,Full,OSA
+V-00247,S-0194,2024-07-31,2024-2025,Disruptive behavior,Minor,No,No sanction,OSA
+V-00248,S-0046,2024-08-01,2024-2025,Use of phone in class,Minor,Yes,Full,OSA
+V-00249,S-0169,2024-08-01,2024-2025,Use of phone in class,Minor,Yes,Full,OSA
+V-00250,S-0063,2024-08-02,2024-2025,Improper uniform,Minor,No,No sanction,OSA
+V-00251,S-0192,2024-08-02,2024-2025,Theft,Major,Yes,Partial,Administrator
+V-00252,S-0232,2024-08-02,2024-2025,Improper uniform,Minor,Yes,Full,Administrator
+V-00253,S-0273,2024-08-05,2024-2025,Disruptive behavior,Minor,Yes,Full,OSA
+V-00254,S-0074,2024-08-08,2024-2025,Use of phone in class,Minor,No,No sanction,OSA
+V-00255,S-0128,2024-08-09,2024-2025,Theft,Major,Yes,Full,Administrator
+V-00256,S-0185,2024-08-09,2024-2025,Vandalism,Major,Yes,Full,OSA
+V-00257,S-0215,2024-08-09,2024-2025,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00258,S-0257,2024-08-12,2024-2025,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00259,S-0280,2024-08-13,2024-2025,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00260,S-0080,2024-08-14,2024-2025,Fighting,Major,Yes,Non-compliance,OSA
+V-00261,S-0232,2024-08-14,2024-2025,Use of phone in class,Minor,No,No sanction,OSA
+V-00262,S-0024,2024-08-15,2024-2025,Littering,Minor,Yes,Full,Teacher
+V-00263,S-0193,2024-08-15,2024-2025,Disruptive behavior,Minor,Yes,Full,OSA
+V-00264,S-0221,2024-08-15,2024-2025,Littering,Minor,Yes,Non-compliance,Administrator
+V-00265,S-0225,2024-08-20,2024-2025,Bullying,Major,Yes,Full,Administrator
+V-00266,S-0249,2024-08-20,2024-2025,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00267,S-0254,2024-08-20,2024-2025,Bullying,Major,Yes,Partial,OSA
+V-00268,S-0249,2024-08-22,2024-2025,Use of phone in class,Minor,Yes,Partial,OSA
+V-00269,S-0254,2024-08-22,2024-2025,Disruptive behavior,Minor,No,No sanction,OSA
+V-00270,S-0063,2024-08-26,2024-2025,Littering,Minor,Yes,Non-compliance,Teacher
+V-00271,S-0232,2024-08-26,2024-2025,Cheating,Major,Yes,Partial,Teacher
+V-00272,S-0004,2024-08-27,2024-2025,Littering,Minor,No,No sanction,Teacher
+V-00273,S-0105,2024-08-27,2024-2025,Littering,Minor,Yes,Non-compliance,Teacher
+V-00274,S-0105,2024-08-28,2024-2025,Cheating,Major,Yes,Full,Administrator
+V-00275,S-0217,2024-08-29,2024-2025,Cheating,Major,Yes,Full,Teacher
+V-00276,S-0261,2024-09-04,2024-2025,Tardiness,Minor,Yes,Partial,Teacher
+V-00277,S-0068,2024-09-05,2024-2025,Theft,Major,Yes,Partial,Teacher
+V-00278,S-0049,2024-09-06,2024-2025,Use of phone in class,Minor,Yes,Partial,OSA
+V-00279,S-0242,2024-09-10,2024-2025,Use of phone in class,Minor,Yes,Full,OSA
+V-00280,S-0127,2024-09-11,2024-2025,Fighting,Major,Yes,Partial,Teacher
+V-00281,S-0221,2024-09-11,2024-2025,Tardiness,Minor,No,No sanction,OSA
+V-00282,S-0246,2024-09-12,2024-2025,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00283,S-0255,2024-09-16,2024-2025,Cheating,Major,Yes,Non-compliance,Teacher
+V-00284,S-0084,2024-09-18,2024-2025,Fighting,Major,Yes,Full,Teacher
+V-00285,S-0114,2024-09-18,2024-2025,Use of phone in class,Minor,No,No sanction,Teacher
+V-00286,S-0201,2024-09-18,2024-2025,Disruptive behavior,Minor,Yes,Full,Administrator
+V-00287,S-0227,2024-09-23,2024-2025,Use of phone in class,Minor,Yes,Partial,Teacher
+V-00288,S-0259,2024-09-23,2024-2025,Improper uniform,Minor,Yes,Partial,Teacher
+V-00289,S-0264,2024-09-23,2024-2025,Vandalism,Major,Yes,Non-compliance,Teacher
+V-00290,S-0092,2024-09-24,2024-2025,Fighting,Major,Yes,Full,OSA
+V-00291,S-0223,2024-09-25,2024-2025,Tardiness,Minor,Yes,Full,OSA
+V-00292,S-0192,2024-09-27,2024-2025,Vandalism,Major,Yes,Partial,Teacher
+V-00293,S-0251,2024-09-27,2024-2025,Cheating,Major,Yes,Full,Teacher
+V-00294,S-0154,2024-09-30,2024-2025,Disruptive behavior,Minor,Yes,Partial,OSA
+V-00295,S-0192,2024-09-30,2024-2025,Theft,Major,Yes,Non-compliance,Teacher
+V-00296,S-0063,2024-10-04,2024-2025,Cheating,Major,Yes,Partial,OSA
+V-00297,S-0126,2024-10-04,2024-2025,Fighting,Major,Yes,Non-compliance,Teacher
+V-00298,S-0055,2024-10-08,2024-2025,Fighting,Major,Yes,Full,Teacher
+V-00299,S-0194,2024-10-10,2024-2025,Cheating,Major,Yes,Partial,OSA
+V-00300,S-0163,2024-10-15,2024-2025,Tardiness,Minor,Yes,Full,OSA
+V-00301,S-0200,2024-10-15,2024-2025,Fighting,Major,Yes,Non-compliance,Teacher
+V-00302,S-0208,2024-10-15,2024-2025,Fighting,Major,Yes,Non-compliance,Teacher
+V-00303,S-0223,2024-10-16,2024-2025,Use of phone in class,Minor,Yes,Full,Teacher
+V-00304,S-0243,2024-10-16,2024-2025,Fighting,Major,Yes,Non-compliance,OSA
+V-00305,S-0063,2024-10-17,2024-2025,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00306,S-0149,2024-10-17,2024-2025,Bullying,Major,Yes,Full,Teacher
+V-00307,S-0190,2024-10-18,2024-2025,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00308,S-0042,2024-10-21,2024-2025,Bullying,Major,Yes,Non-compliance,Teacher
+V-00309,S-0012,2024-10-25,2024-2025,Tardiness,Minor,Yes,Full,Administrator
+V-00310,S-0141,2024-10-25,2024-2025,Vandalism,Major,Yes,Non-compliance,Teacher
+V-00311,S-0063,2024-10-29,2024-2025,Disruptive behavior,Minor,No,No sanction,OSA
+V-00312,S-0175,2024-11-01,2024-2025,Disruptive behavior,Minor,Yes,Non-compliance,Administrator
+V-00313,S-0060,2024-11-05,2024-2025,Fighting,Major,Yes,Full,OSA
+V-00314,S-0127,2024-11-08,2024-2025,Cheating,Major,Yes,Non-compliance,Teacher
+V-00315,S-0074,2024-11-11,2024-2025,Tardiness,Minor,Yes,Full,OSA
+V-00316,S-0264,2024-11-12,2024-2025,Cheating,Major,Yes,Partial,Teacher
+V-00317,S-0076,2024-11-13,2024-2025,Tardiness,Minor,Yes,Full,OSA
+V-00318,S-0060,2024-11-14,2024-2025,Disruptive behavior,Minor,Yes,Partial,OSA
+V-00319,S-0034,2024-11-15,2024-2025,Improper uniform,Minor,Yes,Full,Teacher
+V-00320,S-0066,2024-11-15,2024-2025,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00321,S-0245,2024-11-21,2024-2025,Improper uniform,Minor,Yes,Full,OSA
+V-00322,S-0235,2024-11-25,2024-2025,Use of phone in class,Minor,Yes,Full,Teacher
+V-00323,S-0057,2024-11-26,2024-2025,Bullying,Major,Yes,Full,OSA
+V-00324,S-0260,2024-11-27,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00325,S-0063,2024-11-29,2024-2025,Theft,Major,Yes,Full,OSA
+V-00326,S-0039,2024-12-02,2024-2025,Littering,Minor,No,No sanction,Teacher
+V-00327,S-0134,2024-12-04,2024-2025,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00328,S-0242,2024-12-04,2024-2025,Fighting,Major,Yes,Non-compliance,Teacher
+V-00329,S-0138,2024-12-06,2024-2025,Littering,Minor,Yes,Full,Teacher
+V-00330,S-0125,2024-12-09,2024-2025,Improper uniform,Minor,Yes,Full,OSA
+V-00331,S-0210,2024-12-09,2024-2025,Littering,Minor,No,No sanction,Teacher
+V-00332,S-0270,2024-12-12,2024-2025,Improper uniform,Minor,No,No sanction,OSA
+V-00333,S-0001,2024-12-16,2024-2025,Disruptive behavior,Minor,Yes,Partial,OSA
+V-00334,S-0114,2024-12-16,2024-2025,Theft,Major,Yes,Partial,Teacher
+V-00335,S-0177,2024-12-18,2024-2025,Improper uniform,Minor,Yes,Partial,Teacher
+V-00336,S-0232,2024-12-18,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00337,S-0127,2024-12-25,2024-2025,Vandalism,Major,Yes,Non-compliance,Teacher
+V-00338,S-0105,2024-12-27,2024-2025,Tardiness,Minor,No,No sanction,Teacher
+V-00339,S-0053,2025-01-01,2024-2025,Littering,Minor,Yes,Non-compliance,Teacher
+V-00340,S-0253,2025-01-01,2024-2025,Littering,Minor,No,No sanction,OSA
+V-00341,S-0261,2025-01-03,2024-2025,Fighting,Major,Yes,Full,OSA
+V-00342,S-0087,2025-01-06,2024-2025,Use of phone in class,Minor,No,No sanction,OSA
+V-00343,S-0192,2025-01-08,2024-2025,Fighting,Major,Yes,Non-compliance,Administrator
+V-00344,S-0112,2025-01-09,2024-2025,Tardiness,Minor,Yes,Full,Teacher
+V-00345,S-0142,2025-01-09,2024-2025,Cheating,Major,Yes,Non-compliance,Teacher
+V-00346,S-0176,2025-01-10,2024-2025,Theft,Major,Yes,Full,OSA
+V-00347,S-0202,2025-01-14,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00348,S-0001,2025-01-15,2024-2025,Improper uniform,Minor,Yes,Full,Teacher
+V-00349,S-0224,2025-01-15,2024-2025,Theft,Major,Yes,Non-compliance,Teacher
+V-00350,S-0176,2025-01-16,2024-2025,Improper uniform,Minor,Yes,Partial,Teacher
+V-00351,S-0243,2025-01-21,2024-2025,Theft,Major,Yes,Non-compliance,Teacher
+V-00352,S-0070,2025-01-22,2024-2025,Theft,Major,Yes,Full,Teacher
+V-00353,S-0247,2025-01-22,2024-2025,Littering,Minor,Yes,Non-compliance,OSA
+V-00354,S-0134,2025-01-24,2024-2025,Fighting,Major,Yes,Non-compliance,Teacher
+V-00355,S-0148,2025-01-28,2024-2025,Use of phone in class,Minor,Yes,Partial,OSA
+V-00356,S-0200,2025-01-28,2024-2025,Tardiness,Minor,Yes,Full,Teacher
+V-00357,S-0194,2025-01-30,2024-2025,Fighting,Major,Yes,Partial,Teacher
+V-00358,S-0277,2025-02-04,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00359,S-0012,2025-02-05,2024-2025,Improper uniform,Minor,Yes,Partial,Teacher
+V-00360,S-0110,2025-02-06,2024-2025,Use of phone in class,Minor,Yes,Full,OSA
+V-00361,S-0272,2025-02-11,2024-2025,Use of phone in class,Minor,Yes,Full,OSA
+V-00362,S-0110,2025-02-12,2024-2025,Vandalism,Major,Yes,Non-compliance,Teacher
+V-00363,S-0112,2025-02-12,2024-2025,Theft,Major,Yes,Full,OSA
+V-00364,S-0225,2025-02-12,2024-2025,Theft,Major,Yes,Non-compliance,Teacher
+V-00365,S-0278,2025-02-12,2024-2025,Improper uniform,Minor,Yes,Full,Administrator
+V-00366,S-0112,2025-02-14,2024-2025,Cheating,Major,Yes,Partial,OSA
+V-00367,S-0130,2025-02-18,2024-2025,Improper uniform,Minor,Yes,Full,Administrator
+V-00368,S-0140,2025-02-18,2024-2025,Disruptive behavior,Minor,Yes,Partial,Teacher
+V-00369,S-0206,2025-02-18,2024-2025,Improper uniform,Minor,Yes,Full,Teacher
+V-00370,S-0260,2025-02-18,2024-2025,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00371,S-0255,2025-02-19,2024-2025,Tardiness,Minor,No,No sanction,OSA
+V-00372,S-0149,2025-02-20,2024-2025,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00373,S-0226,2025-02-25,2024-2025,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00374,S-0028,2025-02-27,2024-2025,Vandalism,Major,Yes,Non-compliance,OSA
+V-00375,S-0151,2025-02-28,2024-2025,Theft,Major,Yes,Full,Teacher
+V-00376,S-0142,2025-03-05,2024-2025,Littering,Minor,Yes,Full,OSA
+V-00377,S-0004,2025-03-07,2024-2025,Cheating,Major,Yes,Full,Teacher
+V-00378,S-0220,2025-03-07,2024-2025,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00379,S-0277,2025-03-07,2024-2025,Vandalism,Major,Yes,Non-compliance,OSA
+V-00380,S-0117,2025-03-10,2024-2025,Littering,Minor,Yes,Full,Teacher
+V-00381,S-0251,2025-03-10,2024-2025,Disruptive behavior,Minor,Yes,Non-compliance,OSA
+V-00382,S-0254,2025-03-11,2024-2025,Littering,Minor,No,No sanction,OSA
+V-00383,S-0041,2025-03-13,2024-2025,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00384,S-0254,2025-03-17,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00385,S-0027,2025-03-18,2024-2025,Fighting,Major,Yes,Full,OSA
+V-00386,S-0112,2025-03-21,2024-2025,Vandalism,Major,Yes,Full,Teacher
+V-00387,S-0063,2025-03-24,2024-2025,Fighting,Major,Yes,Full,OSA
+V-00388,S-0234,2025-03-24,2024-2025,Littering,Minor,No,No sanction,OSA
+V-00389,S-0217,2025-03-26,2024-2025,Use of phone in class,Minor,Yes,Full,OSA
+V-00390,S-0257,2025-03-27,2024-2025,Disruptive behavior,Minor,Yes,Full,OSA
+V-00391,S-0109,2025-03-28,2024-2025,Fighting,Major,Yes,Full,Teacher
+V-00392,S-0202,2025-03-28,2024-2025,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00393,S-0225,2025-03-28,2024-2025,Cheating,Major,Yes,Non-compliance,Teacher
+V-00394,S-0039,2025-04-02,2024-2025,Tardiness,Minor,Yes,Full,Teacher
+V-00395,S-0280,2025-04-02,2024-2025,Littering,Minor,Yes,Non-compliance,Teacher
+V-00396,S-0081,2025-04-08,2024-2025,Use of phone in class,Minor,Yes,Full,Teacher
+V-00397,S-0225,2025-04-15,2024-2025,Bullying,Major,Yes,Full,Administrator
+V-00398,S-0171,2025-04-17,2024-2025,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00399,S-0023,2025-04-21,2024-2025,Disruptive behavior,Minor,Yes,Full,OSA
+V-00400,S-0200,2025-04-21,2024-2025,Bullying,Major,Yes,Full,OSA
+V-00401,S-0236,2025-04-21,2024-2025,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00402,S-0154,2025-04-22,2024-2025,Use of phone in class,Minor,No,No sanction,Administrator
+V-00403,S-0270,2025-04-22,2024-2025,Littering,Minor,Yes,Non-compliance,Teacher
+V-00404,S-0105,2025-04-24,2024-2025,Use of phone in class,Minor,Yes,Full,OSA
+V-00405,S-0070,2025-04-25,2024-2025,Cheating,Major,Yes,Full,OSA
+V-00406,S-0165,2025-04-28,2024-2025,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00407,S-0080,2025-04-29,2024-2025,Use of phone in class,Minor,Yes,Partial,Teacher
+V-00408,S-0156,2025-05-05,2024-2025,Fighting,Major,Yes,Full,Teacher
+V-00409,S-0247,2025-05-07,2024-2025,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00410,S-0184,2025-05-08,2024-2025,Bullying,Major,Yes,Non-compliance,OSA
+V-00411,S-0242,2025-05-09,2024-2025,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00412,S-0249,2025-05-12,2024-2025,Improper uniform,Minor,Yes,Full,Teacher
+V-00413,S-0252,2025-05-13,2024-2025,Fighting,Major,Yes,Non-compliance,OSA
+V-00414,S-0254,2025-05-13,2024-2025,Improper uniform,Minor,Yes,Full,Teacher
+V-00415,S-0224,2025-05-15,2024-2025,Tardiness,Minor,No,No sanction,Teacher
+V-00416,S-0212,2025-05-21,2024-2025,Vandalism,Major,Yes,Partial,OSA
+V-00417,S-0109,2025-05-22,2024-2025,Use of phone in class,Minor,Yes,Full,Teacher
+V-00418,S-0142,2025-05-26,2024-2025,Littering,Minor,Yes,Non-compliance,Teacher
+V-00419,S-0141,2025-05-27,2024-2025,Improper uniform,Minor,Yes,Full,Teacher
+V-00420,S-0145,2025-05-28,2024-2025,Improper uniform,Minor,Yes,Full,OSA
+V-00421,S-0049,2025-05-29,2024-2025,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00422,S-0145,2025-05-30,2024-2025,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00423,S-0156,2025-06-04,2025-2026,Tardiness,Minor,Yes,Full,Administrator
+V-00424,S-0305,2025-06-04,2025-2026,Fighting,Major,Yes,Non-compliance,Teacher
+V-00425,S-0206,2025-06-09,2025-2026,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00426,S-0324,2025-06-09,2025-2026,Fighting,Major,Yes,Non-compliance,OSA
+V-00427,S-0200,2025-06-12,2025-2026,Littering,Minor,No,No sanction,Teacher
+V-00428,S-0327,2025-06-12,2025-2026,Use of phone in class,Minor,No,No sanction,OSA
+V-00429,S-0270,2025-06-16,2025-2026,Theft,Major,Yes,Full,Teacher
+V-00430,S-0169,2025-06-18,2025-2026,Fighting,Major,Yes,Full,Administrator
+V-00431,S-0199,2025-06-19,2025-2026,Improper uniform,Minor,Yes,Full,Teacher
+V-00432,S-0336,2025-06-19,2025-2026,Cheating,Major,Yes,Non-compliance,OSA
+V-00433,S-0287,2025-06-20,2025-2026,Fighting,Major,Yes,Non-compliance,Teacher
+V-00434,S-0011,2025-06-24,2025-2026,Vandalism,Major,Yes,Non-compliance,OSA
+V-00435,S-0219,2025-06-26,2025-2026,Use of phone in class,Minor,Yes,Full,OSA
+V-00436,S-0114,2025-06-27,2025-2026,Littering,Minor,Yes,Full,OSA
+V-00437,S-0186,2025-06-27,2025-2026,Improper uniform,Minor,No,No sanction,OSA
+V-00438,S-0253,2025-06-30,2025-2026,Cheating,Major,Yes,Non-compliance,Teacher
+V-00439,S-0144,2025-07-01,2025-2026,Cheating,Major,Yes,Full,Teacher
+V-00440,S-0244,2025-07-02,2025-2026,Bullying,Major,Yes,Full,Teacher
+V-00441,S-0335,2025-07-02,2025-2026,Use of phone in class,Minor,Yes,Full,Teacher
+V-00442,S-0128,2025-07-04,2025-2026,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00443,S-0192,2025-07-04,2025-2026,Cheating,Major,Yes,Non-compliance,OSA
+V-00444,S-0200,2025-07-04,2025-2026,Fighting,Major,Yes,Non-compliance,Teacher
+V-00445,S-0207,2025-07-04,2025-2026,Disruptive behavior,Minor,Yes,Partial,Teacher
+V-00446,S-0326,2025-07-07,2025-2026,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00447,S-0238,2025-07-08,2025-2026,Disruptive behavior,Minor,Yes,Full,OSA
+V-00448,S-0208,2025-07-14,2025-2026,Theft,Major,Yes,Full,OSA
+V-00449,S-0057,2025-07-15,2025-2026,Littering,Minor,Yes,Full,Teacher
+V-00450,S-0283,2025-07-15,2025-2026,Improper uniform,Minor,Yes,Full,Teacher
+V-00451,S-0005,2025-07-16,2025-2026,Theft,Major,Yes,Partial,Teacher
+V-00452,S-0192,2025-07-18,2025-2026,Fighting,Major,Yes,Full,OSA
+V-00453,S-0274,2025-07-18,2025-2026,Theft,Major,Yes,Partial,Teacher
+V-00454,S-0169,2025-07-23,2025-2026,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00455,S-0260,2025-07-23,2025-2026,Theft,Major,Yes,Full,OSA
+V-00456,S-0206,2025-07-24,2025-2026,Fighting,Major,Yes,Partial,Teacher
+V-00457,S-0128,2025-07-29,2025-2026,Theft,Major,Yes,Full,OSA
+V-00458,S-0128,2025-07-30,2025-2026,Vandalism,Major,Yes,Non-compliance,OSA
+V-00459,S-0242,2025-07-30,2025-2026,Bullying,Major,Yes,Full,Teacher
+V-00460,S-0042,2025-08-01,2025-2026,Cheating,Major,Yes,Full,Teacher
+V-00461,S-0242,2025-08-05,2025-2026,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00462,S-0289,2025-08-07,2025-2026,Littering,Minor,Yes,Full,OSA
+V-00463,S-0080,2025-08-08,2025-2026,Use of phone in class,Minor,Yes,Non-compliance,OSA
+V-00464,S-0127,2025-08-11,2025-2026,Improper uniform,Minor,Yes,Full,OSA
+V-00465,S-0213,2025-08-11,2025-2026,Cheating,Major,Yes,Full,Teacher
+V-00466,S-0277,2025-08-12,2025-2026,Use of phone in class,Minor,Yes,Partial,OSA
+V-00467,S-0229,2025-08-14,2025-2026,Disruptive behavior,Minor,Yes,Non-compliance,OSA
+V-00468,S-0312,2025-08-14,2025-2026,Theft,Major,Yes,Non-compliance,Teacher
+V-00469,S-0324,2025-08-14,2025-2026,Vandalism,Major,Yes,Non-compliance,Teacher
+V-00470,S-0137,2025-08-15,2025-2026,Bullying,Major,Yes,Full,Teacher
+V-00471,S-0156,2025-08-15,2025-2026,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00472,S-0234,2025-08-18,2025-2026,Disruptive behavior,Minor,No,No sanction,OSA
+V-00473,S-0235,2025-08-19,2025-2026,Use of phone in class,Minor,No,No sanction,Teacher
+V-00474,S-0280,2025-08-22,2025-2026,Cheating,Major,Yes,Partial,OSA
+V-00475,S-0337,2025-08-26,2025-2026,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00476,S-0035,2025-08-27,2025-2026,Fighting,Major,Yes,Full,Teacher
+V-00477,S-0224,2025-09-01,2025-2026,Fighting,Major,Yes,Partial,OSA
+V-00478,S-0224,2025-09-01,2025-2026,Vandalism,Major,Yes,Full,OSA
+V-00479,S-0259,2025-09-04,2025-2026,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00480,S-0074,2025-09-05,2025-2026,Cheating,Major,Yes,Full,Teacher
+V-00481,S-0312,2025-09-08,2025-2026,Theft,Major,Yes,Full,Administrator
+V-00482,S-0011,2025-09-10,2025-2026,Littering,Minor,Yes,Non-compliance,OSA
+V-00483,S-0060,2025-09-11,2025-2026,Fighting,Major,Yes,Non-compliance,Teacher
+V-00484,S-0029,2025-09-15,2025-2026,Use of phone in class,Minor,Yes,Full,Teacher
+V-00485,S-0247,2025-09-16,2025-2026,Theft,Major,Yes,Non-compliance,Administrator
+V-00486,S-0030,2025-09-17,2025-2026,Theft,Major,Yes,Non-compliance,Administrator
+V-00487,S-0254,2025-09-18,2025-2026,Vandalism,Major,Yes,Full,Teacher
+V-00488,S-0208,2025-09-26,2025-2026,Improper uniform,Minor,No,No sanction,Teacher
+V-00489,S-0326,2025-09-29,2025-2026,Improper uniform,Minor,Yes,Partial,OSA
+V-00490,S-0156,2025-10-02,2025-2026,Theft,Major,Yes,Full,OSA
+V-00491,S-0259,2025-10-02,2025-2026,Improper uniform,Minor,Yes,Full,OSA
+V-00492,S-0242,2025-10-03,2025-2026,Disruptive behavior,Minor,No,No sanction,Administrator
+V-00493,S-0128,2025-10-07,2025-2026,Littering,Minor,Yes,Full,Teacher
+V-00494,S-0292,2025-10-09,2025-2026,Disruptive behavior,Minor,No,No sanction,OSA
+V-00495,S-0305,2025-10-09,2025-2026,Disruptive behavior,Minor,Yes,Partial,Administrator
+V-00496,S-0276,2025-10-10,2025-2026,Littering,Minor,Yes,Non-compliance,Teacher
+V-00497,S-0084,2025-10-13,2025-2026,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00498,S-0320,2025-10-14,2025-2026,Vandalism,Major,Yes,Full,Teacher
+V-00499,S-0235,2025-10-15,2025-2026,Bullying,Major,Yes,Full,Administrator
+V-00500,S-0074,2025-10-16,2025-2026,Theft,Major,Yes,Partial,OSA
+V-00501,S-0278,2025-10-17,2025-2026,Fighting,Major,Yes,Non-compliance,Teacher
+V-00502,S-0229,2025-10-20,2025-2026,Littering,Minor,Yes,Full,Administrator
+V-00503,S-0128,2025-10-22,2025-2026,Littering,Minor,Yes,Partial,Teacher
+V-00504,S-0011,2025-10-24,2025-2026,Cheating,Major,Yes,Full,OSA
+V-00505,S-0091,2025-10-24,2025-2026,Use of phone in class,Minor,Yes,Full,Administrator
+V-00506,S-0318,2025-10-24,2025-2026,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00507,S-0328,2025-10-24,2025-2026,Bullying,Major,Yes,Full,Teacher
+V-00508,S-0335,2025-10-28,2025-2026,Improper uniform,Minor,Yes,Full,Teacher
+V-00509,S-0247,2025-10-30,2025-2026,Cheating,Major,Yes,Partial,Teacher
+V-00510,S-0311,2025-10-30,2025-2026,Tardiness,Minor,No,No sanction,Teacher
+V-00511,S-0032,2025-10-31,2025-2026,Tardiness,Minor,Yes,Non-compliance,Teacher
+V-00512,S-0245,2025-10-31,2025-2026,Use of phone in class,Minor,Yes,Full,Teacher
+V-00513,S-0128,2025-11-04,2025-2026,Littering,Minor,Yes,Partial,OSA
+V-00514,S-0208,2025-11-04,2025-2026,Fighting,Major,Yes,Full,Teacher
+V-00515,S-0277,2025-11-05,2025-2026,Vandalism,Major,Yes,Partial,Teacher
+V-00516,S-0324,2025-11-12,2025-2026,Theft,Major,Yes,Full,OSA
+V-00517,S-0247,2025-11-13,2025-2026,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00518,S-0310,2025-11-14,2025-2026,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00519,S-0280,2025-11-17,2025-2026,Bullying,Major,Yes,Full,Teacher
+V-00520,S-0336,2025-11-17,2025-2026,Theft,Major,Yes,Non-compliance,OSA
+V-00521,S-0024,2025-11-18,2025-2026,Improper uniform,Minor,No,No sanction,Teacher
+V-00522,S-0129,2025-11-25,2025-2026,Use of phone in class,Minor,Yes,Full,Administrator
+V-00523,S-0307,2025-11-26,2025-2026,Cheating,Major,Yes,Full,Teacher
+V-00524,S-0027,2025-11-28,2025-2026,Bullying,Major,Yes,Full,Teacher
+V-00525,S-0115,2025-11-28,2025-2026,Theft,Major,Yes,Non-compliance,Teacher
+V-00526,S-0245,2025-12-01,2025-2026,Disruptive behavior,Minor,Yes,Full,OSA
+V-00527,S-0151,2025-12-02,2025-2026,Disruptive behavior,Minor,Yes,Full,OSA
+V-00528,S-0246,2025-12-02,2025-2026,Vandalism,Major,Yes,Partial,Administrator
+V-00529,S-0293,2025-12-02,2025-2026,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00530,S-0242,2025-12-03,2025-2026,Disruptive behavior,Minor,Yes,Full,OSA
+V-00531,S-0243,2025-12-03,2025-2026,Vandalism,Major,Yes,Non-compliance,OSA
+V-00532,S-0011,2025-12-08,2025-2026,Theft,Major,Yes,Non-compliance,Teacher
+V-00533,S-0247,2025-12-08,2025-2026,Littering,Minor,Yes,Full,Teacher
+V-00534,S-0289,2025-12-08,2025-2026,Improper uniform,Minor,Yes,Full,OSA
+V-00535,S-0206,2025-12-09,2025-2026,Tardiness,Minor,No,No sanction,OSA
+V-00536,S-0233,2025-12-10,2025-2026,Littering,Minor,Yes,Full,Teacher
+V-00537,S-0264,2025-12-10,2025-2026,Cheating,Major,Yes,Non-compliance,OSA
+V-00538,S-0276,2025-12-17,2025-2026,Cheating,Major,Yes,Partial,Teacher
+V-00539,S-0280,2025-12-17,2025-2026,Cheating,Major,Yes,Full,Administrator
+V-00540,S-0001,2025-12-19,2025-2026,Tardiness,Minor,Yes,Partial,OSA
+V-00541,S-0249,2025-12-23,2025-2026,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00542,S-0260,2025-12-24,2025-2026,Littering,Minor,No,No sanction,Teacher
+V-00543,S-0287,2025-12-25,2025-2026,Theft,Major,Yes,Full,Teacher
+V-00544,S-0005,2025-12-26,2025-2026,Littering,Minor,No,No sanction,Teacher
+V-00545,S-0326,2025-12-26,2025-2026,Tardiness,Minor,Yes,Full,OSA
+V-00546,S-0245,2025-12-29,2025-2026,Tardiness,Minor,No,No sanction,OSA
+V-00547,S-0227,2025-12-30,2025-2026,Cheating,Major,Yes,Partial,Teacher
+V-00548,S-0051,2026-01-01,2025-2026,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00549,S-0336,2026-01-01,2025-2026,Littering,Minor,No,No sanction,OSA
+V-00550,S-0288,2026-01-02,2025-2026,Improper uniform,Minor,Yes,Partial,Teacher
+V-00551,S-0318,2026-01-05,2025-2026,Use of phone in class,Minor,Yes,Full,Teacher
+V-00552,S-0169,2026-01-06,2025-2026,Tardiness,Minor,Yes,Partial,Teacher
+V-00553,S-0115,2026-01-07,2025-2026,Fighting,Major,Yes,Full,OSA
+V-00554,S-0226,2026-01-07,2025-2026,Littering,Minor,Yes,Non-compliance,Administrator
+V-00555,S-0298,2026-01-08,2025-2026,Bullying,Major,Yes,Full,Teacher
+V-00556,S-0200,2026-01-14,2025-2026,Vandalism,Major,Yes,Non-compliance,OSA
+V-00557,S-0264,2026-01-14,2025-2026,Theft,Major,Yes,Non-compliance,Teacher
+V-00558,S-0333,2026-01-14,2025-2026,Tardiness,Minor,Yes,Full,OSA
+V-00559,S-0224,2026-01-16,2025-2026,Vandalism,Major,Yes,Partial,OSA
+V-00560,S-0240,2026-01-20,2025-2026,Tardiness,Minor,Yes,Full,Teacher
+V-00561,S-0284,2026-01-21,2025-2026,Improper uniform,Minor,No,No sanction,Teacher
+V-00562,S-0225,2026-01-22,2025-2026,Vandalism,Major,Yes,Partial,OSA
+V-00563,S-0041,2026-01-28,2025-2026,Theft,Major,Yes,Partial,Teacher
+V-00564,S-0161,2026-01-28,2025-2026,Littering,Minor,Yes,Non-compliance,Teacher
+V-00565,S-0208,2026-01-29,2025-2026,Use of phone in class,Minor,Yes,Partial,Administrator
+V-00566,S-0027,2026-01-30,2025-2026,Disruptive behavior,Minor,Yes,Non-compliance,Teacher
+V-00567,S-0080,2026-01-30,2025-2026,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00568,S-0154,2026-01-30,2025-2026,Cheating,Major,Yes,Non-compliance,OSA
+V-00569,S-0257,2026-02-04,2025-2026,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00570,S-0145,2026-02-10,2025-2026,Use of phone in class,Minor,Yes,Partial,OSA
+V-00571,S-0206,2026-02-11,2025-2026,Littering,Minor,Yes,Full,OSA
+V-00572,S-0296,2026-02-11,2025-2026,Littering,Minor,Yes,Full,Teacher
+V-00573,S-0097,2026-02-13,2025-2026,Use of phone in class,Minor,Yes,Full,Teacher
+V-00574,S-0243,2026-02-13,2025-2026,Theft,Major,Yes,Full,OSA
+V-00575,S-0206,2026-02-16,2025-2026,Vandalism,Major,Yes,Partial,OSA
+V-00576,S-0336,2026-02-17,2025-2026,Cheating,Major,Yes,Full,OSA
+V-00577,S-0246,2026-02-23,2025-2026,Tardiness,Minor,No,No sanction,Teacher
+V-00578,S-0305,2026-02-24,2025-2026,Cheating,Major,Yes,Non-compliance,Teacher
+V-00579,S-0225,2026-02-26,2025-2026,Bullying,Major,Yes,Partial,Administrator
+V-00580,S-0111,2026-03-02,2025-2026,Cheating,Major,Yes,Non-compliance,Teacher
+V-00581,S-0298,2026-03-04,2025-2026,Theft,Major,Yes,Partial,OSA
+V-00582,S-0330,2026-03-04,2025-2026,Use of phone in class,Minor,Yes,Non-compliance,Teacher
+V-00583,S-0134,2026-03-06,2025-2026,Theft,Major,Yes,Non-compliance,Teacher
+V-00584,S-0063,2026-03-09,2025-2026,Disruptive behavior,Minor,No,No sanction,Teacher
+V-00585,S-0243,2026-03-09,2025-2026,Fighting,Major,Yes,Non-compliance,OSA
+V-00586,S-0293,2026-03-10,2025-2026,Vandalism,Major,Yes,Full,Administrator
+V-00587,S-0136,2026-03-11,2025-2026,Fighting,Major,Yes,Full,OSA
+V-00588,S-0063,2026-03-16,2025-2026,Tardiness,Minor,Yes,Non-compliance,Administrator
+V-00589,S-0312,2026-03-16,2025-2026,Improper uniform,Minor,No,No sanction,Teacher
+V-00590,S-0338,2026-03-16,2025-2026,Cheating,Major,Yes,Partial,Teacher
+V-00591,S-0059,2026-03-18,2025-2026,Tardiness,Minor,Yes,Partial,Teacher
+V-00592,S-0312,2026-03-18,2025-2026,Improper uniform,Minor,Yes,Non-compliance,OSA
+V-00593,S-0244,2026-03-19,2025-2026,Use of phone in class,Minor,No,No sanction,OSA
+V-00594,S-0030,2026-03-20,2025-2026,Disruptive behavior,Minor,Yes,Full,Administrator
+V-00595,S-0192,2026-03-20,2025-2026,Disruptive behavior,Minor,Yes,Full,OSA
+V-00596,S-0323,2026-03-23,2025-2026,Use of phone in class,Minor,Yes,Full,OSA
+V-00597,S-0084,2026-03-25,2025-2026,Theft,Major,Yes,Full,Teacher
+V-00598,S-0267,2026-03-26,2025-2026,Disruptive behavior,Minor,Yes,Full,Teacher
+V-00599,S-0185,2026-03-27,2025-2026,Cheating,Major,Yes,Partial,Teacher
+V-00600,S-0323,2026-03-30,2025-2026,Fighting,Major,Yes,Partial,Teacher
+V-00601,S-0225,2026-04-02,2025-2026,Cheating,Major,Yes,Full,Teacher
+V-00602,S-0282,2026-04-02,2025-2026,Use of phone in class,Minor,Yes,Non-compliance,Administrator
+V-00603,S-0293,2026-04-06,2025-2026,Use of phone in class,Minor,Yes,Partial,Administrator
+V-00604,S-0283,2026-04-07,2025-2026,Tardiness,Minor,Yes,Non-compliance,OSA
+V-00605,S-0001,2026-04-10,2025-2026,Vandalism,Major,Yes,Partial,OSA
+V-00606,S-0274,2026-04-13,2025-2026,Bullying,Major,Yes,Non-compliance,OSA
+V-00607,S-0276,2026-04-16,2025-2026,Tardiness,Minor,Yes,Partial,Teacher
+V-00608,S-0001,2026-04-20,2025-2026,Use of phone in class,Minor,Yes,Full,OSA
+V-00609,S-0235,2026-04-20,2025-2026,Cheating,Major,Yes,Full,Teacher
+V-00610,S-0318,2026-04-20,2025-2026,Littering,Minor,Yes,Full,Teacher
+V-00611,S-0229,2026-04-21,2025-2026,Littering,Minor,Yes,Full,Administrator
+V-00612,S-0282,2026-04-24,2025-2026,Theft,Major,Yes,Non-compliance,Teacher
+V-00613,S-0236,2026-04-28,2025-2026,Littering,Minor,Yes,Full,OSA
+V-00614,S-0319,2026-04-28,2025-2026,Improper uniform,Minor,Yes,Full,OSA
+V-00615,S-0315,2026-04-30,2025-2026,Improper uniform,Minor,No,No sanction,OSA
+V-00616,S-0332,2026-04-30,2025-2026,Use of phone in class,Minor,Yes,Full,Teacher
+V-00617,S-0282,2026-05-01,2025-2026,Use of phone in class,Minor,Yes,Full,OSA
+V-00618,S-0338,2026-05-01,2025-2026,Fighting,Major,Yes,Non-compliance,Teacher
+V-00619,S-0134,2026-05-05,2025-2026,Tardiness,Minor,No,No sanction,Teacher
+V-00620,S-0328,2026-05-08,2025-2026,Improper uniform,Minor,No,No sanction,Teacher
+V-00621,S-0167,2026-05-26,2025-2026,Littering,Minor,Yes,Partial,Teacher
+V-00622,S-0241,2026-05-28,2025-2026,Improper uniform,Minor,Yes,Non-compliance,Teacher
+V-00623,S-0254,2026-05-29,2025-2026,Tardiness,Minor,Yes,Non-compliance,OSA

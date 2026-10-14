@@ -1,0 +1,10 @@
+CREATE TABLE users(id INTEGER PRIMARY KEY AUTOINCREMENT,username TEXT UNIQUE,password_hash TEXT,role TEXT,full_name TEXT);
+CREATE TABLE students(study_id TEXT PRIMARY KEY,full_name TEXT,department TEXT,year_level TEXT);
+CREATE TABLE violations(violation_id TEXT PRIMARY KEY,study_id TEXT REFERENCES students(study_id),vdate TEXT,academic_year TEXT,category TEXT,severity TEXT,recorded_by TEXT,created_at TEXT DEFAULT CURRENT_TIMESTAMP);
+CREATE INDEX iv_student ON violations(study_id);
+CREATE TABLE sanctions(sanction_id INTEGER PRIMARY KEY AUTOINCREMENT,violation_id TEXT,compliance TEXT);
+CREATE TABLE student_academic_year(record_id TEXT PRIMARY KEY,study_id TEXT,academic_year TEXT,index_date TEXT,f_count TEXT,f_type TEXT,f_recency TEXT,f_year TEXT,f_dept TEXT,f_interval TEXT,f_comp TEXT,followup_n INTEGER,risk_label TEXT);
+CREATE TABLE model_versions(version INTEGER PRIMARY KEY AUTOINCREMENT,trained_at TEXT DEFAULT CURRENT_TIMESTAMP,n_records INTEGER,accuracy REAL,macro_p REAL,macro_r REAL,macro_f1 REAL,base_acc REAL,base_f1 REAL,matrix TEXT,approval TEXT DEFAULT 'Pending');
+CREATE TABLE risk_classifications(classification_id INTEGER PRIMARY KEY AUTOINCREMENT,study_id TEXT UNIQUE,model_version INTEGER,risk_class TEXT,p_low REAL,p_med REAL,p_high REAL,review_status TEXT,reviewed_by TEXT,reviewed_at TEXT);
+CREATE TABLE audit_logs(audit_id INTEGER PRIMARY KEY AUTOINCREMENT,user_id INTEGER,action TEXT,created_at TEXT DEFAULT CURRENT_TIMESTAMP);
+CREATE TABLE app_migrations(migration_key TEXT PRIMARY KEY,applied_at TEXT DEFAULT CURRENT_TIMESTAMP);
